@@ -78,4 +78,4 @@ I’m passionate about solving complex problems, delivering clean architecture, 
 
 ---
 
-💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+💡 *“You got money for war but cant even feed poor "__Tupac*
