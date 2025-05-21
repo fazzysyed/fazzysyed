@@ -13,46 +13,53 @@ I’m passionate about solving complex problems, delivering clean architecture, 
 
 ---
 
-## 🔧 Tech Stack
+## 🧠 Tech Stack & Tools
 
-**Mobile / Web Development**  
-`React Native` • `React.js` • `JavaScript` • `TypeScript` • `Electron.js`
-
-**Backend Development**  
-`Node.js` • `Express` • `Laravel` • `MySQL` • `PostgreSQL` • `MongoDB`
-
-**AI & Custom Projects**  
-`TensorFlow` • `OpenCV` • Custom ML Algorithms for Detection and Probability
-
-**Dev Tools & Others**  
-`Git` • `REST APIs` • `Firebase` • `Socket.io` • `Figma` • `Postman`
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-## 🌟 Projects Highlights
+## 🌟 Project Highlights
 
 - 🚗 **Ride Sharing Apps**  
 - 📈 **Business & CRM Systems**  
-- 🤖 **AI Object Detection Tools**  
-- ♠️ **Poker Apps** - Player card detection, hand ranking, and probability calculations  
+- 🤖 **AI Object Detection (YOLO, TensorFlow Lite)**  
+- ♠️ **Poker Apps** - Player card detection, hand analysis, probability calculations  
+- 📲 **Push Notifications (Firebase)**  
+- 📞 **Calling & Video Apps** – WebRTC, Agora, Zoom SDK  
 - 🖥️ **Electron-based Desktop Applications**  
-- 📦 **Custom Backend APIs with Node.js and Laravel**
+- ⚙️ **Backend APIs using Node.js & Laravel**
 
 ---
 
 ## 🚀 Current Focus
 
-- Learning more about **Cloud Architecture**, **CI/CD**, and **Containerization**
-- Exploring advanced patterns in **React Native** and **AI integration**
-- Building tools to streamline **mobile app development workflows**
+- Scaling real-time features in mobile apps  
+- Deep diving into TensorFlow Lite & AI on edge devices  
+- Exploring advanced calling systems and video SDK integrations
 
 ---
 
 ## 📬 Contact Me
 
-📍 Based in: [Your Location, if you want to add it]  
-📧 Email: **[your-email@example.com]**  
-🌐 Portfolio: [YourPortfolioURL]
+📍 **Based in:** Islamabad, Pakistan  
+✉️ **Email:** fazzysyed75@gmail.com
 
 ---
 
