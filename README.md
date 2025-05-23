@@ -6,8 +6,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/dino-dark.gif" style="width: 100%;" />
-
+<p align="center">
+  <img 
+    src="https://i.imgur.com/fRZbAbx.gif" 
+    alt="Chrome Dino Game - Black Theme" 
+    style="width: 100%; max-width: 1000px;" 
+  />
+</p>
 
 ---
 
@@ -20,7 +25,7 @@ In addition to mobile, I create desktop software using **Electron.js**, and deve
 ## 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nodejs,laravel,firebase,electron,tensorflow,mongodb,mysql,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nodejs,laravel,firebase,electron,tensorflow,mongodb,mysql,postgres,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -56,10 +61,20 @@ In addition to mobile, I create desktop software using **Electron.js**, and deve
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farazsyedf16/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/fazzysyed)  
-[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/yvYb4r0)  
-[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0142c7a9c7e72c5e7b?mp_source=share)
+<p align="center">
+  <a href="https://www.linkedin.com/in/farazsyedf16/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="border-radius: 50%;"/>
+  </a>
+  <a href="https://github.com/fazzysyed" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" height="40" style="border-radius: 50%;"/>
+  </a>
+  <a href="https://www.fiverr.com/s/yvYb4r0" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fiverr.svg" alt="Fiverr" width="40" height="40" style="border-radius: 50%;"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0142c7a9c7e72c5e7b?mp_source=share" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/upwork.svg" alt="Upwork" width="40" height="40" style="border-radius: 50%;"/>
+  </a>
+</p>
 
 ---
 
