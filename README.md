@@ -10,7 +10,7 @@
   <img
     src="https://github.com/fazzysyed/fazzysyed/blob/5679ae30fd3d492b082c5410ed7f70c722737eab/animation.gif"
     alt="Chrome Dino Game - Black Theme"
-    style="width: 100%; max-width: 1000px;"
+<!--     style="width: 100%; max-width: 1000px;" -->
   />
 </p>
 
