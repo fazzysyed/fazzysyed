@@ -7,10 +7,10 @@
 ---
 
 <p align="center">
-  <img 
-    src="https://i.imgur.com/fRZbAbx.gif" 
-    alt="Chrome Dino Game - Black Theme" 
-    style="width: 100%; max-width: 1000px;" 
+  <img
+    src="https://raw.githubusercontent.com/mrousavy/mrousavy/master/img/dino-dark.gif"
+    alt="Chrome Dino Game - Black Theme"
+    style="width: 100%; max-width: 1000px;"
   />
 </p>
 
@@ -63,16 +63,16 @@ In addition to mobile, I create desktop software using **Electron.js**, and deve
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farazsyedf16/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="border-radius: 50%;" />
   </a>
   <a href="https://github.com/fazzysyed" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" height="40" style="border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" height="40" style="border-radius: 50%;" />
   </a>
   <a href="https://www.fiverr.com/s/yvYb4r0" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fiverr.svg" alt="Fiverr" width="40" height="40" style="border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fiverr.svg" alt="Fiverr" width="40" height="40" style="border-radius: 50%;" />
   </a>
   <a href="https://www.upwork.com/freelancers/~0142c7a9c7e72c5e7b?mp_source=share" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/upwork.svg" alt="Upwork" width="40" height="40" style="border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/upwork.svg" alt="Upwork" width="40" height="40" style="border-radius: 50%;" />
   </a>
 </p>
 
