@@ -6,11 +6,11 @@
 
 ---
 
-<p align="center">
-  💬 **Let’s do ChatGPT!** 🤖
+<p align="center" style="color:gray; font-style: italic;">
+  💬 "SyntaxError: Unexpected token 'Faraz' at line 23" — Fixing with ChatGPT 🤖
 </p>
 
-<p>
+<p align="center">
   <img
     src="https://github.com/fazzysyed/fazzysyed/blob/5679ae30fd3d492b082c5410ed7f70c722737eab/animation.gif?raw=true"
     alt="Chrome Dino Game - Black Theme"
