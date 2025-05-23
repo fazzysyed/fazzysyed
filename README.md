@@ -7,10 +7,10 @@
 ---
 
 <p align="center">
-  💬 **Let’s do ChatGPT — ask me anything!** 🤖
+  💬 **Let’s do ChatGPT!** 🤖
 </p>
 
-<p align="center">
+<p>
   <img
     src="https://github.com/fazzysyed/fazzysyed/blob/5679ae30fd3d492b082c5410ed7f70c722737eab/animation.gif?raw=true"
     alt="Chrome Dino Game - Black Theme"
