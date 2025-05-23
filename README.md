@@ -6,9 +6,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/fRZbAbx.gif" alt="Chrome Dino Game" style="width: 100%;" />
-</p>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/dino-dark.gif" style="width: 100%;" />
+
 
 ---
 
