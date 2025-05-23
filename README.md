@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" alt="Chrome No Internet Dino Game" width="300" />
+  <img src="https://i.imgur.com/fRZbAbx.gif" alt="Chrome Dino Game" style="width: 100%;" />
 </p>
 
 ---
