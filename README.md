@@ -50,10 +50,8 @@ In addition to mobile, I create desktop software using **Electron.js**, and deve
 
 ## 🚀 Current Focus
 
-- Real-time communication in mobile apps  
-- Edge AI with TensorFlow Lite  
-- Video SDKs (Agora, Zoom) Integration  
-- Clean architecture and modular app scaling
+- Develop mobile application using mobile app.
+- Finding Peace
 
 ---
 
