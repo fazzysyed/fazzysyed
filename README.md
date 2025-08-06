@@ -73,12 +73,12 @@ In addition to mobile, I create desktop software using **Electron.js**, and deve
   <a href="https://github.com/fazzysyed" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.fiverr.com/s/yvYb4r0" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
+<!--   <a href="https://www.fiverr.com/s/yvYb4r0" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
   <a href="https://www.upwork.com/freelancers/~0142c7a9c7e72c5e7b?mp_source=share" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" />
-  </a>
+  </a> -->
 </p>
 
 ---
