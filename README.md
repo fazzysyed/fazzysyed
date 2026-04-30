@@ -7,7 +7,7 @@
 ---
 
 <p align="center" style="color:gray; font-style: italic;">
-  💬 "SyntaxError: Unexpected token 'Faraz' at line 23" — Fixing with ChatGPT 🤖
+  💬 "SyntaxError: Unexpected token 'Faraz' at line 23" — Fixing with AI 🤖
 </p>
 
 <p align="center">
