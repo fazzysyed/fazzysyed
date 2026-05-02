@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Faraz Syed
 
-> ⚡️ React Native Developer | Full Stack Enthusiast  
+> ⚡️ React Native Architect | Full Stack Enthusiast  
 > 🛠️ 5+ Years Experience | 🚀 Delivered 87+ Projects  
 > 💻 Backend: Node.js | Laravel | AI/ML Integration
 
