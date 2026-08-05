@@ -50,7 +50,7 @@ In addition to mobile, I create desktop software using **Electron.js**, and deve
 
 ## 🚀 Current Focus
 
-- Develop mobile application using mobile app.
+- Develop mobile application using AI.
 - Finding Peace
 
 ---
